@@ -1,5 +1,5 @@
 # WensOpdracht
 Canvas teken app voor de wens opdracht.
 
-"Link naar de bewijzenmap waar we je project straks kunnen vinden. *"
-"Link naar de zip met alle codes voor makkelijk downloaden en code-review *"
+"http://21240.hosts.ma-cloud.nl/bewijzenmap/periode3/PaintApp/index.html"
+"http://21240.hosts.ma-cloud.nl/bewijzenmap/periode3/PaintApp.7z"
